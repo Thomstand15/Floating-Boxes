@@ -1,0 +1,121 @@
+/* <!-- HND/CSS/2024/0367 --> */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: Arial, sans-serif;
+}
+
+.main-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 3px solid black;
+  background-color: white;
+}
+
+.clear {
+  clear: both;
+}
+
+.header-box {
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.large-box-left {
+  float: left;
+  width: 40%;
+  height: 180px;
+  margin-right: 2%;
+}
+.small-box-container {
+  float: left;
+  width: 58%;
+}
+.small-box {
+  float: left;
+  width: 31.33%;
+  height: 80px;
+  margin: 0 1% 20px 1%;
+}
+
+.middle-row-container {
+  margin-top: 20px;
+}
+.medium-box {
+  float: left;
+  width: 23%;
+  height: 100px;
+  margin: 0 1%;
+}
+
+.bottom-column-left {
+  float: left;
+  width: 25%;
+  margin-top: 20px;
+  margin-right: 2%;
+}
+.stacked-box {
+  height: 100px;
+}
+.tall-box-right {
+  float: left;
+  width: 73%;
+  height: 220px;
+  margin-top: 20px;
+}
+
+.header-box {
+  background-color: midnightblue;
+}
+.large-box-left {
+  background-color: paleturquoise;
+}
+.tall-box-right {
+  background-color: aqua;
+}
+
+.sb-1 {
+  background-color: darkgreen;
+}
+.sb-2 {
+  background-color: teal;
+}
+.sb-3 {
+  background-color: yellow;
+}
+.sb-4 {
+  background-color: aquamarine;
+}
+.sb-5 {
+  background-color: plum;
+}
+.sb-6 {
+  background-color: palevioletred;
+}
+
+.mb-1 {
+  background-color: saddlebrown;
+}
+.mb-2 {
+  background-color: purple;
+}
+.mb-3 {
+  background-color: navy;
+}
+.mb-4 {
+  background-color: orange;
+}
+
+.stb-1 {
+  background-color: orangered;
+  margin-bottom: 20px;
+}
+.stb-2 {
+  background-color: greenyellow;
+}
+/* <!-- HND/CSS/2024/0367 --> */
